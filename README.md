@@ -35,7 +35,8 @@ I liked that environment and perhaps for all of us this was the happiest part of
 
 ### On-Line public conference. 
 via TEAMS. The invitational link will be published here.
-Date: 24 October, 2022. 10am.(GMT+1)
+
+***Date: 24 October, 2022. 10am.(GMT+1)***
 
 ### Speakers
 The speakers are from authors of the special issue of P.U.M.A.
