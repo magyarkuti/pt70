@@ -15,25 +15,25 @@ organizations containing the math department.*
 has a great charisma. To teach mathematics for economists is not an obvious
 task. Generally most of the students just want to pass the exam. But when
 Peter was teaching the students did not want just pass, they also wanted to
-understand mathematics. The main reason is that he was very deeply under-
-standing the fundamental message of mathematics and gave the students exactly
-what they needed to get. Appreciation of clear thinking. But Peter is not only
-an excellent teacher but he is a good researcher. In this volume his colleagues
-and friends have published some articles related to his research interest.
-In my article one can find some reflections on a problem which I have founded
-most interesting when I joined the department about twenty years ago. This
-time after István Dancs he was the head of the department, and the math department had a very friendly and open atmosphere. The main characteristic
-was that the members of the department loved their work, loved teaching, loved
-mathematics and of course loved teaching mathematics very much.*
+understand mathematics. 
+The main reason is that he was very deeply understanding the fundamental message of mathematics and gave the students exactly what they needed to get. Appreciation of clear thinking. 
+But Peter is not only an excellent teacher but he is a good researcher. 
+In this volume his colleagues and friends have published some articles related to his research interest.
+In my article one can find some reflections on a problem which I have founded most interesting when I joined the department about twenty years ago. 
+This time after István Dancs he was the head of the department, 
+and the math department had a very friendly and open atmosphere. 
+The main characteristic was that the members of the department loved their work, loved teaching, 
+loved mathematics and of course loved teaching mathematics very much.*
 
-*We discussed everything. From very abstract questions of mathematics to very basic axiomatic issues. 
+*We discussed everything. 
+From very abstract questions of mathematics to very basic axiomatic issues. 
 We have tried to fly and we have tried to dig as deep as we could. 
 Whenever I went to the department somebody had some problem about some details of some proof or some definition. 
 I liked that environment and perhaps for all of us this was the happiest part of our professional life.*
 
 *In this special issue I try to recall the atmosphere of these lovely years.''*
 
-### On-Line public conference. 
+### On-line public conference. 
 via TEAMS. The invitational link will be published here.
 
 ***Date: 24 October, 2022. 10am.(GMT+1)***
