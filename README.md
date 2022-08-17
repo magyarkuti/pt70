@@ -33,7 +33,7 @@ I liked that environment and perhaps for all of us this was the happiest part of
 
 *In this special issue I try to recall the atmosphere of these lovely years.''*
 
-### On-line public conference. 
+### On-line public conference
 via TEAMS. The invitational link will be published here.
 
 ***Date: 24 October, 2022. 10am.(GMT+1)***
