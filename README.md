@@ -2,10 +2,10 @@
 
 This conference is in honor of Peter Tallos 70th birthday. 
 
-Peter is an internationally renowed researcher in the field of differential inclusion. Peter was the head of the Department of Mathematics of Corvinus University of Budapest for long years. He is an excellent teacher, he always belonged to the most popular teachers of Corvinus University of Budapest. At the same time, Peter is a long term managing editor of [P.U.M.A.](https://sciendo.com/journal/PUMA), founded by Jenő Szép and Franco Migliorini.
+Peter is an internationally renowned researcher in the field of differential inclusion. Peter was the head of the Department of Mathematics of Corvinus University of Budapest for long years. He is an excellent teacher, he always belonged to the most popular teachers of Corvinus University of Budapest. At the same time, Peter is a long term managing editor of [P.U.M.A.](https://sciendo.com/journal/PUMA), founded by Jenő Szép and Franco Migliorini.
 
-Celebrating Peter's 70th birthday a special issue of P.U.M.A. is edited by the organising comitee of this conference.
-An excerpt from the Foreword written by his colleage Péter Medvegyev is as follows.
+Celebrating Peter's 70th birthday a special issue of P.U.M.A. is edited by the organising committee of this conference.
+An excerpt from the Foreword written by his colleague Péter Medvegyev is as follows.
 
 *,,Peter was there and he served the department and the students with great care and devotion. For more
 than 20 years he served as head of the department and director of the different
@@ -40,9 +40,9 @@ via TEAMS. The invitational link will be published here.
 
 ### Speakers
 The speakers are from authors of the special issue of P.U.M.A.
-The exact list of the speakers are construted later, but the issue is almost ready to publish.
-We are planning not more then 6 talks (30 minutes each). 
-The autors are as follows:
+This issue is ready to publish.
+We are planning not more than 6 talks (30 minutes each). 
+The list of the possible speakers are as follows:
 - Peter Medvegyev
 - Gyula Magyarkuti
 - Zoltán Kánnai
@@ -54,7 +54,6 @@ The autors are as follows:
 - Maryam Hamidi, Ferenc Szidarovszky, Akio Matsumoto
 - József Abaffy
 
-### Organizing comitee
+### Organizing committee
 - Gyula Magyarkuti
 - Peter Medvegyev
-- Zoltán Varga
