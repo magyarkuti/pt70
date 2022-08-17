@@ -4,7 +4,7 @@ This conference is in honor of Peter Tallos 70th birthday.
 
 Peter is an internationally renowed researcher in the field of differential inclusion. Peter was the head of the Department of Mathematics of Corvinus University of Budapest for long years. He is an excellent teacher, he always belonged to the most popular teachers of Corvinus University of Budapest. At the same time, Peter is a long term managing editor of [P.U.M.A.](https://sciendo.com/journal/PUMA), founded by Jenő Szép and Franco Migliorini.
 
-Celebrating Peter's 70th birthday a special issue of P.U.M.A. is edited by the organising comitee of that conference.
+Celebrating Peter's 70th birthday a special issue of P.U.M.A. is edited by the organising comitee of this conference.
 An excerpt from the Foreword written by his colleage Péter Medvegyev is as follows.
 
 *,,Peter was there and he served the department and the students with great care and devotion. For more
