@@ -2,9 +2,9 @@
 
 This conference is in honor of the 70th birthday of Peter Tallos. 
 
-Peter is an internationally renowned researcher in the field of differential inclusion. He was the head of the Department of Mathematics of Corvinus University of Budapest for long years. Peter is an excellent teacher, who always belonged to the most popular teachers of Corvinus University of Budapest. At the same time, Peter is a long term managing editor of [P.U.M.A.](https://sciendo.com/journal/PUMA), founded by Jenő Szép and Franco Migliorini.
+Peter is an internationally renowned researcher in the field of differential inclusion. He was the head of the Department of Mathematics of Corvinus University of Budapest for long years. Peter is an excellent teacher, who always belonged to the most popular teachers of Corvinus University of Budapest. At the same time, Peter is a long term managing editor of [PU.M.A.](https://sciendo.com/journal/PUMA), founded by Jenő Szép and Franco Migliorini.
 
-Celebrating Peter's 70th birthday a special issue of P.U.M.A. is edited by the organising committee of this conference.
+Celebrating Peter's 70th birthday a special issue of PU.M.A. is edited by the organising committee of this conference.
 An excerpt from the Foreword written by his colleague Péter Medvegyev is as follows:
 
 *,,Peter was there and he served the department and the students with great care and devotion. For more
@@ -39,7 +39,7 @@ via TEAMS. The invitational link will be published here.
 ***Date: 24 October, 2022. 10am.(GMT+1)***
 
 ### Speakers
-The speakers are from authors of the special issue of P.U.M.A.
+The speakers are from authors of the special issue of PU.M.A.
 This issue is ready to be published.
 We plan 6 talks, no more (30 minutes each). 
 The list of the possible speakers could be:
