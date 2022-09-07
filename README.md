@@ -49,6 +49,7 @@ The list of the possible speakers could be:
 - Dezső Bednay, Balázs Fleiner, Attila Tasnádi
 - Zoltán Varga, Immaculada López, Manuel Gámez
 - Kolos Ágoston, Márton Gyetvai
+- Luca Ferrari
 - Petrus Potgieter
 - Willem Fouché
 - Maryam Hamidi, Ferenc Szidarovszky, Akio Matsumoto
