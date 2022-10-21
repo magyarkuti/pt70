@@ -41,19 +41,19 @@ via TEAMS. The invitational link is [here](https://teams.microsoft.com/l/meetup-
 ### Speakers
 The speakers are from authors of the special issue of PU.M.A.
 This issue is ready to be published.
-We plan 6 talks, no more (30 minutes each). 
-The list of the possible speakers could be:
-- Peter Medvegyev
-- Gyula Magyarkuti
-- Zoltán Kánnai
-- Dezső Bednay, Balázs Fleiner, Attila Tasnádi
-- Zoltán Varga, Immaculada López, Manuel Gámez
-- Kolos Ágoston, Márton Gyetvai
-- Luca Ferrari
-- Petrus Potgieter
-- Willem Fouché
-- Maryam Hamidi, Ferenc Szidarovszky, Akio Matsumoto
-- József Abaffy
+We plan 8 talks, 20 minutes each. 
+The order of the talks are as follows.
+- 10.10: Peter Medvegyev (On the construction of the elementary trigonometric functions)
+- 10:35: Willem Fouché (Ramsey actions and Gelfand duality)
+- 11:00: Dezső Bednay, Balázs Fleiner, Attila Tasnádi (The Limit of the Non-dictatorship Index)
+- 11:25: Imre Dobos (Production-inventory strategies for a linear reverse logistics system)
+
+- 11:50: Break
+
+- 12:10: Petrus Potgieter (Computability of sets in Euclidean space)
+- 12:35: Zoltán Kánnai (Viability and equilibrium in Banach spaces)
+- 13:00: Kolos Ágoston, Márton Gyetvai (On monotone likelihood ratio of stationary probabilities in bonus-malus systems)
+- 13:25: Gyula Magyarkuti (The subminimal polynomial and the Cayley-Hamilton theorem)
 
 ### Organizing committee
 - Gyula Magyarkuti
