@@ -40,7 +40,7 @@ via TEAMS.
 
 ### Speakers
 The speakers are from authors of the special issue of PU.M.A.
-This issue is published at 8 of November (https://sciendo.com/issue/PUMA/30/3).
+This issue is published at 8 of November. See: [https://sciendo.com/issue/PUMA/30/3](https://sciendo.com/issue/PUMA/30/3).
 
 We had 8 talks, 20 minutes each. 
 The order of the talks are as follows.
