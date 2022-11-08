@@ -34,14 +34,15 @@ I liked that environment. Perhaps for all of us this was the happiest part of ou
 *In this special issue I try to recall the atmosphere of these lovely years.''*
 
 ### On-line public conference
-via TEAMS. The invitational link is [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGIwM2Q1NDQtNDViNC00ZWFhLWFlMjEtMmZkN2UwNjBlYjk0%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%2254875ae1-c159-44d0-b389-433130281671%22%7d).
+via TEAMS. 
 
 **Date: 24 October, 2022. 10am (CEST).**
 
 ### Speakers
 The speakers are from authors of the special issue of PU.M.A.
-This issue is ready to be published.
-We plan 8 talks, 20 minutes each. 
+This issue is published at 8 of November (https://sciendo.com/issue/PUMA/30/3).
+
+We had 8 talks, 20 minutes each. 
 The order of the talks are as follows.
 - 10.10: Peter Medvegyev (On the construction of the elementary trigonometric functions)
 - 10:35: Willem Fouché (Ramsey actions and Gelfand duality)
